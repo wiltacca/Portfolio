@@ -1,4 +1,4 @@
-# John Doe
+# William's Data Science Portfolio
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
