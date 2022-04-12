@@ -15,10 +15,10 @@ This project integrates various news source for performing sentiment analysis pe
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Project 2: Crypto Trading Bot](https://app.powerbi.com/reportEmbed?reportId=e07c54b6-fa44-4e5c-8dd7-22a4e3a85951&autoAuth=true&ctid=cba9e115-3016-4462-a1ab-a565cba0cdf1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 ![alt text](shubham-dhage-wKPWo3DS_R8-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://app.powerbi.com/reportEmbed?reportId=e07c54b6-fa44-4e5c-8dd7-22a4e3a85951&autoAuth=true&ctid=cba9e115-3016-4462-a1ab-a565cba0cdf1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3">Unsplash</a>
+Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
