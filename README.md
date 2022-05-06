@@ -5,8 +5,8 @@
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
-# [Project 1: Crypto Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/ITI104_Dimensionality_Reduction_Lab_v1_2.ipynb)
-![alt text](python coding.jpg)
+# [Project 1: Crypto Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Pynb/ITI104_Dimensionality_Reduction_Lab_v1_2.ipynb)
+![alt text](python_coding.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
