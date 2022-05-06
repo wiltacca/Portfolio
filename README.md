@@ -16,7 +16,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Output:** Sentiment of Cryptocurrency
 
 # [Project 2: Crypto Trading Bot](https://app.powerbi.com/reportEmbed?reportId=e07c54b6-fa44-4e5c-8dd7-22a4e3a85951&autoAuth=true&ctid=cba9e115-3016-4462-a1ab-a565cba0cdf1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
-![alt text](https://github.com/wiltacca/Portfolio/blob/main/Pictures/python logo.jpg)
+![alt text](https://github.com/wiltacca/Portfolio/blob/main/Pictures/python_logo.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
