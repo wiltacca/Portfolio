@@ -1,8 +1,10 @@
 # William's Data Science Portfolio
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*An Aspiring Data Scientist*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
+* 2022 | Advanced Diploma in Machine Learning *Ngee Ann Polytechnic*
+* 2021 | Specialist Diploma in Data Analytics *Ngee Ann Polytechnic*
+
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
 # [Project 1: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Pynb/ITI104_Dimensionality_Reduction_Lab_v1_2.ipynb)
