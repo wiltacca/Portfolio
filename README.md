@@ -1,4 +1,4 @@
-# William's Data Science Portfolio
+# William Tan's Data Science Portfolios
 *An Aspiring Data Scientist*
 
 # Education
