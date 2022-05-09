@@ -2,7 +2,7 @@
 *An Aspiring Data Scientist*
 
 # Education
-* 2022 | Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
+* 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
 * 2021 | Specialist Diploma in Data Analytics, *Ngee Ann Polytechnic*
 * 2020 | Post-Diploma Certificate In Digital Business Transformation, *Republic Polytechnic*
 * 2016 | Master of Business Administration, *The University of Adelaide*
