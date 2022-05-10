@@ -41,7 +41,7 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 * **Output:** Predicted rental price of the listed properties.
 
 # [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
-![alt text](https://github.com/wiltacca/Portfolio/blob/main/Pictures/python_logo.png)
+![alt text](python_coding01.jpg)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
