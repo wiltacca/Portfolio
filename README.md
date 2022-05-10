@@ -17,7 +17,7 @@
 * 2020 - Effecive Management Program 
 * 2018 - Microsoft Certified Professional 
 * 2018 - Microsoft Certified Solutions Associate: BI Reporting 
-* 2011 - i3BAR & Visual Analytics Business Intelligence Dahboards
+* 2011 - i3BAR & Visual Analytics Business Intelligence Dashboards
 
 # Technological Toolbox/Skills
 
