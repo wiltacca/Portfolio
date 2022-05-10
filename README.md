@@ -28,7 +28,7 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 # [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
 
-**CLASSIFICATION -** This project performed HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
+**CLASSIFICATION -** This project performs HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
 
 * **Python libraries used:** sklearn, feature engine, xgboost, math, joblib, scipy, seaborn, matplotlib.
 * **Input:** HR dataset contains employee personal information, education background, past performance and more. 
@@ -43,15 +43,15 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 # [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding01.jpg)
 
-**CLUSTERING -** This project performed HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
+**CLUSTERING -** This project focuses on bank credir risk in particular the customer credit which is the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
 
-* **Python libraries used:** sklearn, feature engine, xgboost, math, joblib, scipy, seaborn, matplotlib.
-* **Input:** HR dataset contains employee personal information, education background, past performance and more. 
-* **Output:** Identified the employees most likely to get promoted.
+* **Python libraries used:** sklearn, scipy, wordcloud, plotly, seaborn, matplotlib.
+* **Input:** Loaddefault dataset contains customers’ history, such as age, debt ratio, monthly income, number of open credit lines and loans and more.
+* **Output:** Discovered a cluster of customers with high credit risk.
 
-**ASSOCIATION RULES -** Airbnb wants to expand on traveling possibilities and present more unique, personalized way of experiencing the world. Utilize all these features from the dataset to make predictions on the rental price of the listed properties.
+**ASSOCIATION RULES -** This project create recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analysing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in analysed data.
 
-* **Python libraries used:** sklearn, feature engine, xgboost, math, joblib, scipy, seaborn, matplotlib.
-* **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
-* **Output:** Predicted rental price of the listed properties.
+* **Python libraries used:**  sklearn, scipy, mlxtend, plotly, seaborn, matplotlib.
+* **Input:** Listing dataset contains 9690 record of TV show watched by different customers.
+* **Output:** Recommended the next TV show that a customer will be interested in watching. 
 
