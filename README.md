@@ -1,7 +1,7 @@
-# :wave: Welcome To William Tan's Data Science Projects
+# Welcome To William Tan's Data Science Projects
 *A Data Science and Machine Learning Enthusiast Knows Data Makes Sense*
 
-# :scroll: Education
+# Education
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
 * 2021 - Specialist Diploma in Data Analytics, *Ngee Ann Polytechnic*
 * 2020 - Post-Diploma Certificate In Digital Business Transformation, *Republic Polytechnic*
@@ -13,19 +13,19 @@
 * 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)) *The University of Oxford Brookes*
 * 2001 - The Association of Chartered Certified Accountants *(ACCA)*
 
-# :trophy: Certifications
+# Certifications
 * 2020 - Effecive Management Program 
 * 2018 - Microsoft Certified Professional 
 * 2018 - Microsoft Certified Solutions Associate: BI Reporting 
 * 2011 - i3BAR & Visual Analytics Business Intelligence Dahboards
 
-# :toolbox: Technological Toolbox/Skills
+# Technological Toolbox/Skills
 
 Microsoft: Excel, PowerPivot, Power Query, Power BI - Macro: VBA - QlikView - Tableau - SQL - DAX - SAP Web Intelligence (Business Object) - Python Programming: Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels, Feature Engine, Mlxtend, NLTK, Matplotlib, Seaborn, Plotly, TensorFlow, Keras.
 
 Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navision - Microsoft Dynamics Great Plains - SAS Enterprise Guide - SAS Enterprise Miner - SAS Sentimental Analysis Studio - SAP Crystal Reports - SAP Dashboard - SAP NetWeaver Business Warehouse - SAP BEx - SAP Enterprise Resource Planning - SAP Business Objects Data Service - SAP Information Design Tool - Accpac - IBM Cognos Planning - Google Analytics - Google Data Studio - TIBCO Spotfire.
 
-# :pushpin: [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
+# [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
 
 ## Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
@@ -42,7 +42,7 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 * **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
 * **Output:** Predicted rental price of the listed properties.
 
-# :pushpin: [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
+# [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
 ![alt text](python_coding01.jpg)
 
 ## Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
