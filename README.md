@@ -52,6 +52,6 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 **ASSOCIATION RULES -** This project create recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analysing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in analysed data.
 
 * **Python libraries used:**  sklearn, scipy, mlxtend, plotly, seaborn, matplotlib.
-* **Input:** Listing dataset contains 9690 record of TV show watched by different customers.
+* **Input:** TV Shows dataset contains 9690 record of TV show watched by different customers.
 * **Output:** Recommended the next TV show that a customer will be interested in watching. 
 
