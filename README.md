@@ -1,7 +1,7 @@
-# William Tan's Data Science Projects
-*A Data Science and Machine Learning Enthusiast Who Advocates For Data Makes Sense Power By AI*
+# :wave: William Tan's Data Science Projects
+*A Data Science and Machine Learning Enthusiast Knows Data Makes Sense*
 
-# Education
+# :scroll: Education
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
 * 2021 - Specialist Diploma in Data Analytics, *Ngee Ann Polytechnic*
 * 2020 - Post-Diploma Certificate In Digital Business Transformation, *Republic Polytechnic*
@@ -13,19 +13,19 @@
 * 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)) *The University of Oxford Brookes*
 * 2001 - The Association of Chartered Certified Accountants *(ACCA)*
 
-# Certifications
+# :trophy: Certifications
 * 2020 - Effecive Management Program 
 * 2018 - Microsoft Certified Professional 
 * 2018 - Microsoft Certified Solutions Associate: BI Reporting 
 * 2011 - i3BAR & Visual Analytics Business Intelligence Dahboards
 
-# Technological Toolbox/Skills
+# :toolbox: Technological Toolbox/Skills
 
 Microsoft: Excel, PowerPivot, Power Query, Power BI - Macro: VBA - QlikView - Tableau - SQL - DAX - SAP Web Intelligence (Business Object) - Python Programming: Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels, Feature Engine, Mlxtend, NLTK, Matplotlib, Seaborn, Plotly, TensorFlow, Keras.
 
 Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navision - Microsoft Dynamics Great Plains - SAS Enterprise Guide - SAS Enterprise Miner - SAS Sentimental Analysis Studio - SAP Crystal Reports - SAP Dashboard - SAP NetWeaver Business Warehouse - SAP BEx - SAP Enterprise Resource Planning - SAP Business Objects Data Service - SAP Information Design Tool - Accpac - IBM Cognos Planning - Google Analytics - Google Data Studio - TIBCO Spotfire.
 
-# [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
+# :pushpin: [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
 
 **CLASSIFICATION -** This project performs HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
@@ -40,7 +40,7 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 * **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
 * **Output:** Predicted rental price of the listed properties.
 
-# [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
+# :pushpin: [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
 ![alt text](python_coding01.jpg)
 
 **CLUSTERING -** This project focuses on bank credir risk in particular the customer credit which is the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
