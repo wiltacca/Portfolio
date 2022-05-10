@@ -25,7 +25,7 @@ Microsoft: Excel, PowerPivot, Power Query, Power BI - Macro: VBA - QlikView - Ta
 
 Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navision - Microsoft Dynamics Great Plains - SAS Enterprise Guide - SAS Enterprise Miner - SAS Sentimental Analysis Studio - SAP Crystal Reports - SAP Dashboard - SAP NetWeaver Business Warehouse - SAP BEx - SAP Enterprise Resource Planning - SAP Business Objects Data Service - SAP Information Design Tool - Accpac - IBM Cognos Planning - Google Analytics - Google Data Studio - TIBCO Spotfire.
 
-# [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Pynb/ITI104_Dimensionality_Reduction_Lab_v1_2.ipynb)
+# [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
