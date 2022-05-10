@@ -40,10 +40,7 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 * **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
 * **Output:** Predicted rental price of the listed properties.
 
-
-
-
-# [Project 2: Machine Learning](https://app.powerbi.com/reportEmbed?reportId=e07c54b6-fa44-4e5c-8dd7-22a4e3a85951&autoAuth=true&ctid=cba9e115-3016-4462-a1ab-a565cba0cdf1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+# [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](https://github.com/wiltacca/Portfolio/blob/main/Pictures/python_logo.png)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
