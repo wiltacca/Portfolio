@@ -1,5 +1,5 @@
 # William Tan's Data Science Projects
-* A Data Science and Machine Learning Enthusiast Who Advocate For Data Makes Sense (Power By AI)*
+* A Data Science and Machine Learning Enthusiast Who Advocate For Data Makes Sense Power By AI*
 
 # Education
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
