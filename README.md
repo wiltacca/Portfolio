@@ -28,10 +28,20 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 # [Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+**CLASSIFICATION PROBLEM -** This project performed HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
+
+* **Python libraries used:** sklearn, feature engine, xgboost, math, joblib, scipy, seaborn, matplotlib.
+* **Input:** HR dataset contains employee personal information, education background, past performance and more. 
+* **Output:** Identified the employees most likely to get promoted.
+
+**REGRESSION PROBLEM -** Airbnb wants to expand on traveling possibilities and present more unique, personalized way of experiencing the world. Utilize all these features from the dataset to make predictions on the rental price of the listed properties.
+
+* **Python libraries used:** sklearn, feature engine, xgboost, math, joblib, scipy, seaborn, matplotlib.
+* **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
+* **Output:** Predicted rental price of the listed properties.
+
+
+
 
 # [Project 2: Machine Learning](https://app.powerbi.com/reportEmbed?reportId=e07c54b6-fa44-4e5c-8dd7-22a4e3a85951&autoAuth=true&ctid=cba9e115-3016-4462-a1ab-a565cba0cdf1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 ![alt text](https://github.com/wiltacca/Portfolio/blob/main/Pictures/python_logo.png)
