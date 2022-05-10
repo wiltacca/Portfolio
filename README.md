@@ -40,7 +40,7 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 * **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
 * **Output:** Predicted rental price of the listed properties.
 
-# [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
+# [Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
 ![alt text](python_coding01.jpg)
 
 **CLUSTERING -** This project focuses on bank credir risk in particular the customer credit which is the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
