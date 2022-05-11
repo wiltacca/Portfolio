@@ -9,12 +9,12 @@
 * 2014 - Specialist Diploma in Business Analytics, *Temasek Polytechnic*
 * 2014 - Graduate Certificate in Enterprise Resource Planning Systems (SAP ERP), *The University of Victoria*
 * 2013 - Certificate of Achievement in Business Intelligence Systems (SAP BI), *The University of Victoria*
-* 2013 - Diploma in IT Services (Database Management) *Infocomm Development Authority of Singapore*
-* 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)) *The University of Oxford Brookes*
-* 2001 - The Association of Chartered Certified Accountants *(ACCA)*
+* 2013 - Diploma in IT Services (Database Management), *Infocomm Development Authority of Singapore*
+* 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)), *The University of Oxford Brookes*
+* 2001 - The Association of Chartered Certified Accountants, *(ACCA)*
 
 # Certifications
-* 2020 - Effecive Management Program 
+* 2020 - Malik Effecive Management Program 
 * 2018 - Microsoft Certified Professional 
 * 2018 - Microsoft Certified Solutions Associate: BI Reporting 
 * 2011 - i3BAR & Visual Analytics Business Intelligence Dashboards
