@@ -1,4 +1,4 @@
-# William Tan's Data Science Projects In GitHub
+# Data Makes Sense Power By Artificial Intelligence
 *A Data Science and Machine Learning Enthusiast Knows Data Makes Sense*
 
 # Education
