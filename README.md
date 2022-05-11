@@ -1,4 +1,4 @@
-# Data Makes Sense Power By Artificial Intelligence
+# Data Makes Sense Power By AI!
 *A Data Science and Machine Learning Enthusiast Knows Data Makes Sense*
 
 # Education
