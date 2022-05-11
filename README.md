@@ -1,4 +1,4 @@
-# William Tan's Data Science Projects
+# William Tan's Data Science Projects In GitHub
 *A Data Science and Machine Learning Enthusiast Knows Data Makes Sense*
 
 # Education
