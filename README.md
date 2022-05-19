@@ -108,7 +108,7 @@
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
 * **Output:** Accurately classified the ten different types of food correctly.
 
-# [Click Project 4: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)(https://github.com/wiltacca/Portfolio/blob/main/Sentiment_Analysis.ipynb))
+# [Click Project 4: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Sentiment_Analysis.ipynb)
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
 
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
