@@ -59,7 +59,7 @@ Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navisio
 * **Input:** TV Shows dataset contains 9690 record of TV show watched by different customers.
 * **Output:** Recommended the next TV show that a customer will be interested in watching. 
 
-# [Click Project 3: Data Visualisation](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
+# [Click Project 3: Data Visualisation]([https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb))
 ![alt text](Data_Visualisation.jpg)
 
 ### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
