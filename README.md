@@ -104,7 +104,7 @@
 
 **IMAGE CLASSIFICATIONS -** This project focuses on to build various multiclass image classification models to recognise and classify ten different types of food.
 
-* **Python libraries used:** pandas, numpy, sklearn, scipy, wordcloud, plotly, seaborn, matplotlib.
+* **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, matplotlib.
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
 * **Output:** Accurately classified the ten different types of food correctly.
 
