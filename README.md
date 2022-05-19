@@ -7,11 +7,11 @@
 * 2021 - Specialist Diploma in Data Analytics, *Ngee Ann Polytechnic*
 
 * 2020 - Post-Diploma Certificate In Digital Business Transformation, *Republic Polytechnic*
-*
+
 * 2016 - Master of Business Administration, *The University of Adelaide*
 
 * 2014 - Specialist Diploma in Business Analytics, *Temasek Polytechnic*
-*
+
 * 2014 - Graduate Certificate in Enterprise Resource Planning Systems (SAP ERP), *The University of Victoria*
 
 * 2013 - Certificate of Achievement in Business Intelligence Systems (SAP BI), *The University of Victoria*
