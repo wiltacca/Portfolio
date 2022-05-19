@@ -1,5 +1,5 @@
 # Data Makes Sense Power By AI!
-*A Data Science and Machine Learning Enthusiast Knows Data Makes Sense*
+*A Data Science and Machine Learning Enthusiast Who Knows Data Makes Sense*
 
 # Education
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
