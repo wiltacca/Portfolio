@@ -21,9 +21,33 @@
 
 # Technological Toolbox/Skills
 
-Microsoft: Excel, PowerPivot, Power Query, Power BI - Macro: VBA - QlikView - Tableau - SQL - DAX - SAP Web Intelligence (Business Object) - Python Programming: Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels, Feature Engine, Mlxtend, NLTK, Matplotlib, Seaborn, Plotly, TensorFlow, Keras.
+Microsoft: Excel, PowerPivot, Power Query, Macro: VBA, Word, PowerPoint, Access, Visio, Project, OneNote
 
-Microsoft: Word, PowerPoint, Access, Visio, Project, OneNote - Microsoft Navision - Microsoft Dynamics Great Plains - SAS Enterprise Guide - SAS Enterprise Miner - SAS Sentimental Analysis Studio - SAP Crystal Reports - SAP Dashboard - SAP NetWeaver Business Warehouse - SAP BEx - SAP Enterprise Resource Planning - SAP Business Objects Data Service - SAP Information Design Tool - Accpac - IBM Cognos Planning - Google Analytics - Google Data Studio - TIBCO Spotfire.
+Microsoft Power BI - DAX
+
+Microsoft Navision
+
+Microsoft Dynamics Great Plains
+
+Python Programming: Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels, Feature Engine, Mlxtend, NLTK, Matplotlib, Seaborn, Plotly, TensorFlow, Keras.
+
+SAP Web Intelligence (Business Object), SAP Crystal Reports, SAP Dashboard, SAP NetWeaver Business Warehouse, SAP BEx, SAP Enterprise Resource Planning, SAP Business Objects Data Service, SAP Information Design Tool
+
+SAS Enterprise Guide, SAS Enterprise Miner,  SAS Sentimental Analysis Studio
+
+QlikView
+
+Tableau 
+
+SQL
+
+ACCPAC
+
+IBM Cognos Planning 
+
+Google Data Studio
+
+TIBCO Spotfire
 
 # [Click Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
