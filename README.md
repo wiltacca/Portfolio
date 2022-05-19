@@ -96,7 +96,7 @@
 * **Output:** Recommended the next TV show that a customer will be interested in watching. 
 
 # [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
-![alt text](Neural_Network_Brain_Mimic.jpg)
+![alt text](Neural_Network_Brain_Mimic.jpeg)
 
 ### Neural networks are loosely inspired by our brain. When your brain recognizes an object such as a horse saddle, a pattern of nerve cells will fire as a response to that stimulus. The visual of the horse itself will fire a different pattern of cells. So too do deep neural networks give certain responses depending on the input we feed them. But unlike humans, the neurons of a deep neural network are mathematical functions that receive input as numbers. The neurons take these numbers and perform calculations. If the calculation is able to reach a certain threshold (called a weight), the input is then passed on to a second set of neurons for more calculations and so on in a cascading effect. But machines also have a tool called “back propagation” that isn’t present in biology. Through back propagation information can go backwards through the network if the system is ever incorrect, helping it to better learn by sending data from the output layer back to the hidden layers for refinement.
 
