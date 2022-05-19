@@ -100,11 +100,13 @@
 
 ### Neural networks are loosely inspired by our brain. When your brain recognizes an object such as a horse saddle, a pattern of nerve cells will fire as a response to that stimulus. The visual of the horse itself will fire a different pattern of cells. So too do deep neural networks give certain responses depending on the input we feed them. But unlike humans, the neurons of a deep neural network are mathematical functions that receive input as numbers. The neurons take these numbers and perform calculations. If the calculation is able to reach a certain threshold (called a weight), the input is then passed on to a second set of neurons for more calculations and so on in a cascading effect. But machines also have a tool called “back propagation” that isn’t present in biology. Through back propagation information can go backwards through the network if the system is ever incorrect, helping it to better learn by sending data from the output layer back to the hidden layers for refinement.
 
-**CNN -** This project focuses on bank credir risk in particular the customer credit which is the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
+### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
+
+**IMAGE CLASSIFICATIONS -** This project focuses on to build various multiclass image classification models to recognise and classify ten different types of food.
 
 * **Python libraries used:** pandas, numpy, sklearn, scipy, wordcloud, plotly, seaborn, matplotlib.
-* **Input:** Loaddefault dataset contains customers’ history, such as age, debt ratio, monthly income, number of open credit lines and loans and more.
-* **Output:** Discovered a cluster of customers with high credit risk.
+* **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
+* **Output:** Accurately classified the ten different types of food correctly.
 
 # [Click Project 5: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
 ![alt text](Data_Visualisation.jpg)
