@@ -1,8 +1,8 @@
+![alt text](DataMakesSense.png)
 # Data Makes Sense Power By AI! 
 *A Data Science and Machine Learning Enthusiast Who Knows Data Makes Sense* 
 
-![alt text](DataMakesSense.png)
-
+![alt text](Education.jpg)
 # Education
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
 
@@ -24,8 +24,7 @@
 
 * 2001 - The Association of Chartered Certified Accountants, *(ACCA)*
 
-![alt text](Education.jpg)
-
+![alt text](Certification.jpg)
 # Certifications
 * 2020 - Malik Effecive Management Program 
 
@@ -35,8 +34,7 @@
 
 * 2011 - i3BAR & Visual Analytics Business Intelligence Dashboards
 
-![alt text](Certification.jpg)
-
+![alt text](Skill.jpg)
 # Technological Toolbox/Skills
 
 * Microsoft: Excel, PowerPivot, Power Query, Macro: VBA, Word, PowerPoint, Access, Visio, Project, OneNote
@@ -67,8 +65,7 @@
 
 * TIBCO Spotfire
 
-![alt text](Skill.jpg)
-
+![alt text](AIMLDL.png)
 # Artifical Intelligence
 
 Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
@@ -77,10 +74,8 @@ Science that empowers computers to mimic human intelligence such as decision mak
 
 Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machines to improve at a given task with experience. It is important to note that all machine learning techniques are classiﬁed as Artiﬁcial Intelligence ones. However, not all Artiﬁcial Intelligence could count as Machine Learning since some basic Rule-based engines could be classiﬁed as AI but they do not learn from experience therefore they do not belong to the machine learning category
 
-![alt text](AIMLDL.png)
-
-# [Click Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
+# [Click Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
@@ -96,8 +91,8 @@ Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machine
 * **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
 * **Output:** Predicted rental price of the listed properties.
 
-# [Click Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
 ![alt text](python_coding01.jpg)
+# [Click Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
 
 ### Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
 
@@ -113,6 +108,7 @@ Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machine
 * **Input:** TV Shows dataset contains 9690 record of TV show watched by different customers.
 * **Output:** Recommended the next TV show that a customer will be interested in watching. 
 
+![alt text](Neural_Network_Brain_Mimic.jpeg)
 # Deep Learning
 
 Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
@@ -121,10 +117,8 @@ Deep Learning is a specialized ﬁeld of Machine Learning that relies on trainin
 
 * Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
 
-![alt text](Neural_Network_Brain_Mimic.jpeg)
-
-# [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
 ![alt text](CNN.jpeg)
+# [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
 
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
 
@@ -134,8 +128,8 @@ Deep Learning is a specialized ﬁeld of Machine Learning that relies on trainin
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
 * **Output:** Accurately classified the ten different types of food correctly.
 
-# [Click Project 4: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Sentiment_Analysis.ipynb)
 ![alt text](Sentiment_Analysis.jpg)
+# [Click Project 4: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Sentiment_Analysis.ipynb)
 
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
 
@@ -145,8 +139,9 @@ Deep Learning is a specialized ﬁeld of Machine Learning that relies on trainin
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
 * **Output:** Accurately classified the ten different types of food correctly.
 
-# [Click Project 5: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
 ![alt text](Data_Visualisation.jpg)
+# [Click Project 5: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
+
 
 ### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
 
