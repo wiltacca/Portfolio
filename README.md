@@ -24,6 +24,8 @@
 
 * 2001 - The Association of Chartered Certified Accountants, *(ACCA)*
 
+![alt text](Education.jpg)
+
 # Certifications
 * 2020 - Malik Effecive Management Program 
 
@@ -32,6 +34,8 @@
 * 2018 - Microsoft Certified Solutions Associate: BI Reporting 
 
 * 2011 - i3BAR & Visual Analytics Business Intelligence Dashboards
+
+![alt text](Certification.jpg)
 
 # Technological Toolbox/Skills
 
@@ -62,6 +66,8 @@
 * Google Data Studio
 
 * TIBCO Spotfire
+
+![alt text](Skill.jpg)
 
 # Artifical Intelligence
 
