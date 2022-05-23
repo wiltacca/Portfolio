@@ -130,13 +130,15 @@ Deep Learning is a specialized ﬁeld of Machine Learning that relies on trainin
 ![alt text](Sentiment_Analysis.jpg)
 # [Click Project 4: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Sentiment_Analysis.ipynb)
 
-### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
+### Recurrent Neural Network (RNN) processes sequences by iterating through the sequence elements and maintaining a state containing information relative to what it has seen so far. In effect, an RNN is a type of neural network that has an internal loop. The state of the RNN is reset between processing two different, independent sequences so still consider one sequence a single data point: a single input to the network. What changes is that this data point is no longer processed in a single step; rather, the network internally loops over sequence elements.
 
-**SENTIMENT ANALYSIS -** This project focuses on to build various multiclass image classification models to recognise and classify ten different types of food.
+### Long Short-Term Memory (LSTM) was created as the solution to short-term memory caused by RNN. It has internal mechanisms called gates that can regulate the flow of information. An LSTM has a similar control flow as a recurrent neural network. It processes data passing on information as it propagates forward. The differences are the operations within the LSTM’s cells.
 
-* **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, matplotlib.
-* **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
-* **Output:** Accurately classified the ten different types of food correctly.
+**SENTIMENT ANALYSIS -** This project focuses on to build a sentiment analysis model to predict Disney Plus Disney Plus App review scores based on Google Play Store reviews.
+
+* **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, string, emoji, nltk, matplotlib.
+* **Input:** Scraped the most recent reviews from com.disney.disneyplus (in Google Play Store) in English language from United State.
+* **Output:** Accurately predict user input review scores correctly.
 
 ![alt text](Data_Visualisation.jpg)
 # [Click Project 5: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
