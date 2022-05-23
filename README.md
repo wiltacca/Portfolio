@@ -1,6 +1,8 @@
 # Data Makes Sense Power By AI!
 *A Data Science and Machine Learning Enthusiast Who Knows Data Makes Sense*
 
+![alt text](https://https://github.com/wiltacca/Portfolio/edit/main/Data Makes Sense.png "Logo Title Text 1")
+
 # Education
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
 
