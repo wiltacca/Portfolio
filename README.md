@@ -116,7 +116,7 @@ Deep Learning is a specialized ﬁeld of Machine Learning that relies on trainin
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
 
 # [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
-![alt text](Neural_Network_Brain_Mimic.jpeg)
+![alt text](CNN.jpeg)
 
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
 
