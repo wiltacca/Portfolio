@@ -1,6 +1,5 @@
 ![alt text](DataMakesSense.png)
-# Data Makes Sense Power By AI! 
-*A Data Science and Machine Learning Enthusiast Who Knows Data Makes Sense* 
+# A Data Science and Machine Learning Enthusiast Who Knows Data Makes Sense* 
 
 ![alt text](Education.jpg)
 # Education
