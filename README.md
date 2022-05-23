@@ -61,6 +61,14 @@
 
 * TIBCO Spotfire
 
+# Artifical Intelligence
+
+Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
+
+# Machine Learning
+
+Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machines to improve at a given task with experience. It is important to note that all machine learning techniques are classiﬁed as Artiﬁcial Intelligence ones. However, not all Artiﬁcial Intelligence could count as Machine Learning since some basic Rule-based engines could be classiﬁed as AI but they do not learn from experience therefore they do not belong to the machine learning category
+
 # [Click Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
 
@@ -95,10 +103,16 @@
 * **Input:** TV Shows dataset contains 9690 record of TV show watched by different customers.
 * **Output:** Recommended the next TV show that a customer will be interested in watching. 
 
+# Deep Learning
+
+Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
+
+Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
+
+Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
+
 # [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
-
-### Neural networks are loosely inspired by our brain. When your brain recognizes an object such as a horse saddle, a pattern of nerve cells will fire as a response to that stimulus. The visual of the horse itself will fire a different pattern of cells. So too do deep neural networks give certain responses depending on the input we feed them. But unlike humans, the neurons of a deep neural network are mathematical functions that receive input as numbers. The neurons take these numbers and perform calculations. If the calculation is able to reach a certain threshold (called a weight), the input is then passed on to a second set of neurons for more calculations and so on in a cascading effect. But machines also have a tool called “back propagation” that isn’t present in biology. Through back propagation information can go backwards through the network if the system is ever incorrect, helping it to better learn by sending data from the output layer back to the hidden layers for refinement.
 
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
 
