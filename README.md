@@ -1,5 +1,5 @@
 ![alt text](DataMakesSense.png)
-# A Data Science and Machine Learning Enthusiast Who Knows Data Makes Sense* 
+# A Data Science and Machine Learning Enthusiast* 
 
 ![alt text](Education.jpg)
 # Education
