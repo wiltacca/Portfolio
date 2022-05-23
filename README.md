@@ -1,5 +1,5 @@
 ![alt text](DataMakesSense.png)
-# A Data Science and Machine Learning Enthusiast* 
+# A Data Science and Machine Learning Professional 
 
 ![alt text](Education.jpg)
 # Education
