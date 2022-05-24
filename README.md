@@ -221,7 +221,7 @@ ___
 ___
 
 # [Click Project 8: Python Programming](https://github.com/wiltacca/Portfolio/blob/main/Statistics.ipynb)
-![alt text](Statistics.jpg)
+![alt text](python_coding02.jpg)
 
 ### Statistics, in general, is the method of collection of data, tabulation, and interpretation of numerical data. It is an area of applied mathematics concern with data collection analysis, interpretation, and presentation. With statistics, we can see how data can be used to solve complex problems. 
 
