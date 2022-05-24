@@ -161,6 +161,7 @@ ___
 ### Long Short-Term Memory (LSTM) was created as the solution to short-term memory caused by RNN. It has internal mechanisms called gates that can regulate the flow of information. An LSTM has a similar control flow as a recurrent neural network. It processes data passing on information as it propagates forward. The differences are the operations within the LSTM’s cells.
 
 ### GloVe (Global Vectors for Word Representation) is an unsupervised learning algorithm for obtaining vector representations for words developed by Stanford researchers in 2014. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space.
+![alt text](GloVe.png)
 
 **SENTIMENT ANALYSIS -** This project focuses on to build a sentiment analysis model to predict Disney Plus Disney Plus App review scores based on Google Play Store reviews.
 
