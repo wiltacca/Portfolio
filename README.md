@@ -201,7 +201,7 @@ ___
 # [Click Project 7: Statistics](https://github.com/wiltacca/Portfolio/blob/main/Statistics.ipynb)
 ![alt text](Statistics.jpg)
 
-### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
+### Statistics, in general, is the method of collection of data, tabulation, and interpretation of numerical data. It is an area of applied mathematics concern with data collection analysis, interpretation, and presentation. With statistics, we can see how data can be used to solve complex problems. 
 
 **STATISTICAL TESTS -** This project focuses on answering six questions about the students’ performance. Using the appropriate data from the dataset provided, perform statistical techniques to provide answers to these questions.
 
