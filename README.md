@@ -22,9 +22,9 @@ ___
 * 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)), *The University of Oxford Brookes*
 
 * 2001 - The Association of Chartered Certified Accountants, *(ACCA)*
-
-![alt text](Certification.jpg)
+___
 # Certifications
+![alt text](Certification.jpg)
 * 2020 - Malik Effecive Management Program 
 
 * 2018 - Microsoft Certified Professional 
@@ -32,10 +32,9 @@ ___
 * 2018 - Microsoft Certified Solutions Associate: BI Reporting 
 
 * 2011 - i3BAR & Visual Analytics Business Intelligence Dashboards
-
-![alt text](Skill.jpg)
+___
 # Technological Toolbox/Skills
-
+![alt text](Skill.jpg)
 * Microsoft: Excel, PowerPivot, Power Query, Macro: VBA, Word, PowerPoint, Access, Visio, Project, OneNote
 
 * Microsoft Power BI - DAX
@@ -63,18 +62,17 @@ ___
 * Google Data Studio
 
 * TIBCO Spotfire
-
-![alt text](AIMLDL.png)
+___
 # Artifical Intelligence
-
+![alt text](AIMLDL.png)
 Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
 
 # Machine Learning
 
 Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machines to improve at a given task with experience. It is important to note that all machine learning techniques are classiﬁed as Artiﬁcial Intelligence ones. However, not all Artiﬁcial Intelligence could count as Machine Learning since some basic Rule-based engines could be classiﬁed as AI but they do not learn from experience therefore they do not belong to the machine learning category
-
-![alt text](python_coding.jpg)
+___
 # [Click Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
+![alt text](python_coding.jpg)
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
@@ -89,9 +87,9 @@ Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machine
 * **Python libraries used:** pandas, numpy, sklearn, feature engine, xgboost, math, joblib, scipy, seaborn, matplotlib.
 * **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
 * **Output:** Predicted rental price of the listed properties.
-
-![alt text](python_coding01.jpg)
+___
 # [Click Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
+![alt text](python_coding01.jpg)
 
 ### Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
 
@@ -106,18 +104,18 @@ Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machine
 * **Python libraries used:**  pandas, numpy, sklearn, scipy, mlxtend, plotly, seaborn, matplotlib.
 * **Input:** TV Shows dataset contains 9690 record of TV show watched by different customers.
 * **Output:** Recommended the next TV show that a customer will be interested in watching. 
-
-![alt text](Neural_Network_Brain_Mimic.jpeg)
+___
 # Deep Learning
+![alt text](Neural_Network_Brain_Mimic.jpeg)
 
 Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
 
 * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
 
 * Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
-
-![alt text](CNN.jpeg)
+____
 # [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
+![alt text](CNN.jpeg)
 
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
 
@@ -126,9 +124,9 @@ Deep Learning is a specialized ﬁeld of Machine Learning that relies on trainin
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, matplotlib.
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
 * **Output:** Accurately classified the ten different types of food correctly.
-
-![alt text](Sentiment_Analysis.jpg)
+___
 # [Click Project 4: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Sentiment_Analysis.ipynb)
+![alt text](Sentiment_Analysis.jpg)
 
 ### Recurrent Neural Network (RNN) processes sequences by iterating through the sequence elements and maintaining a state containing information relative to what it has seen so far. In effect, an RNN is a type of neural network that has an internal loop. The state of the RNN is reset between processing two different, independent sequences so still consider one sequence a single data point: a single input to the network. What changes is that this data point is no longer processed in a single step; rather, the network internally loops over sequence elements.
 
@@ -139,10 +137,9 @@ Deep Learning is a specialized ﬁeld of Machine Learning that relies on trainin
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, string, emoji, nltk, matplotlib.
 * **Input:** Scraped the most recent reviews from com.disney.disneyplus (in Google Play Store) in English language from United State.
 * **Output:** Accurately predict user input review scores correctly.
-
-![alt text](Data_Visualisation.jpg)
+___
 # [Click Project 5: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
-
+![alt text](Data_Visualisation.jpg)
 
 ### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
 
