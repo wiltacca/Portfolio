@@ -171,7 +171,21 @@ ___
 
 ___
 
-# [Click Project 5: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
+# [Click Project 6: Feature Engineering](https://github.com/wiltacca/Portfolio/blob/main/Feature_Engineering.ipynb)
+![alt text](Data_Visualisation.jpg)
+
+### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
+
+**FEATURE ENGINEERING -** This project focuses on by assuming that you are part of the market research team for Cardio Good Fitness, a retail business specializing in the sales of treadmills. The team has collected data on individuals who purchased a treadmill at the Cardio Good Fitness retail stores for the past three months.
+Through data preparation, exploration and visualisation, the market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics.
+
+* **Python libraries used:** pandas, numpy, scipy, plotly, seaborn, matplotlib, bokeh.
+* **Input:** cardio dataset contains products, branches, genders, ages, educations of customers, model of treadmills and more.
+* **Output:** Discovered vast differences across various product lines with respect to customer characteristics.
+
+___
+
+# [Click Project 6: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
 ![alt text](Data_Visualisation.jpg)
 
 ### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
