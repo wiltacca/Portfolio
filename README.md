@@ -1,4 +1,7 @@
 ![alt text](DataMakesSense.png)
+
+[<img alt="alt_text" width="40px" src="DataMakesSense.PNG" />](https://williamtwl.wordpress.com/)
+
 # [Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
 
 ___
