@@ -78,11 +78,11 @@ ___
 # Artifical Intelligence
 ![alt text](AIMLDL.png)
 
-## Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
+### Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
 
 # Machine Learning
 
-## Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machines to improve at a given task with experience. It is important to note that all machine learning techniques are classiﬁed as Artiﬁcial Intelligence ones. However, not all Artiﬁcial Intelligence could count as Machine Learning since some basic Rule-based engines could be classiﬁed as AI but they do not learn from experience therefore they do not belong to the machine learning category.
+### Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machines to improve at a given task with experience. It is important to note that all machine learning techniques are classiﬁed as Artiﬁcial Intelligence ones. However, not all Artiﬁcial Intelligence could count as Machine Learning since some basic Rule-based engines could be classiﬁed as AI but they do not learn from experience therefore they do not belong to the machine learning category.
 
 ___
 
