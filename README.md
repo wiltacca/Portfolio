@@ -1,8 +1,8 @@
 ![alt text](DataMakesSense.png)
 # Data Science & Machine Learning Enthusiast 
 
-![alt text](Education.jpg)
 # Education
+![alt text](Education.jpg)
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
 
 * 2021 - Specialist Diploma in Data Analytics, *Ngee Ann Polytechnic*
