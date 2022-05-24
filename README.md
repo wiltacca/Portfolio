@@ -207,5 +207,5 @@ ___
 
 * **Python libraries used:** pandas, numpy, sklearn, feature engine, sweetviz, scipy, statsmodels, seaborn, matplotlib, pylab.
 * **Input:** Student grades dataset contains student marks for four different modules (Math, Science, Comms, Tech) from five different diplomas (Dip_Technology, Dip_Media, Dip_Security, Dip_Social, Dip_Banking) and more.
-* **Output:** Answered these questions based on various statistical techniques.
+* **Output:** Answered these questions by applying various statistical techniques.
 
