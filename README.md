@@ -121,13 +121,17 @@ ___
 * **Python libraries used:**  pandas, numpy, sklearn, scipy, mlxtend, plotly, seaborn, matplotlib.
 * **Input:** TV Shows dataset contains 9690 record of TV show watched by different customers.
 * **Output:** Recommended the next TV show that a customer will be interested in watching. 
+
 ___
+
 # Deep Learning
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
 
 ### Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
 
+
 ### * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
+
 
 ### * Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
 
