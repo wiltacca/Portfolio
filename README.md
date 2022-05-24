@@ -1,5 +1,5 @@
 ![alt text](DataMakesSense.png)
-# Data Science & Machine Learning Enthusiast!
+# [Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
 ___
 
 # Education
