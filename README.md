@@ -1,6 +1,6 @@
 ![alt text](DataMakesSense.png)
 # Data Science & Machine Learning Enthusiast!
-***
+___
 
 # Education
 ![alt text](Education.jpg)
