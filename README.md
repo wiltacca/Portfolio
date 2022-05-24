@@ -1,5 +1,3 @@
-![alt text](DataMakesSense.png)
-
 [![name](DataMakesSense.png)](https://williamtwl.wordpress.com/)
 
 # [Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
