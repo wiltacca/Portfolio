@@ -87,7 +87,7 @@ ___
 ___
 
 # [Click Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
-![alt text](Regression-vs-Classification.jfif)
+![alt text](ClassVsRegress.png)
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
@@ -106,7 +106,7 @@ ___
 ___
 
 # [Click Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
-![alt text](python_coding01.jpg)
+![alt text](ClusterVsAssoc.jpg)
 
 ### Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
 
