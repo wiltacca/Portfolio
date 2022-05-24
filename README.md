@@ -1,7 +1,6 @@
-![alt text](DataMakesSense.png)(https://williamtwl.wordpress.com/)
+![alt text](DataMakesSense.png)
 # [Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
 ___
-
 # Education
 ![alt text](Education.jpg)
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
