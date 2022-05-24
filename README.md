@@ -1,8 +1,11 @@
 ![alt text](DataMakesSense.png)
 # [Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
+
 ___
+
 # Education
 ![alt text](Education.jpg)
+
 * 2022 - Advanced Diploma in Machine Learning, *Ngee Ann Polytechnic*
 
 * 2021 - Specialist Diploma in Data Analytics, *Ngee Ann Polytechnic*
@@ -22,9 +25,12 @@ ___
 * 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)), *The University of Oxford Brookes*
 
 * 2001 - The Association of Chartered Certified Accountants, *(ACCA)*
+
 ___
+
 # Certifications
 ![alt text](Certification.jpg)
+
 * 2020 - Malik Effecive Management Program 
 
 * 2018 - Microsoft Certified Professional 
@@ -32,9 +38,12 @@ ___
 * 2018 - Microsoft Certified Solutions Associate: BI Reporting 
 
 * 2011 - i3BAR & Visual Analytics Business Intelligence Dashboards
+
 ___
+
 # Technological Toolbox/Skills
 ![alt text](Skill.jpg)
+
 * Microsoft: Excel, PowerPivot, Power Query, Macro: VBA, Word, PowerPoint, Access, Visio, Project, OneNote
 
 * Microsoft Power BI - DAX
@@ -62,15 +71,20 @@ ___
 * Google Data Studio
 
 * TIBCO Spotfire
+
 ___
+
 # Artifical Intelligence
 ![alt text](AIMLDL.png)
-Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
+
+## Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
 
 # Machine Learning
 
-Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machines to improve at a given task with experience. It is important to note that all machine learning techniques are classiﬁed as Artiﬁcial Intelligence ones. However, not all Artiﬁcial Intelligence could count as Machine Learning since some basic Rule-based engines could be classiﬁed as AI but they do not learn from experience therefore they do not belong to the machine learning category
+## Machine Learning is a subﬁeld of Artiﬁcial Intelligence that enables machines to improve at a given task with experience. It is important to note that all machine learning techniques are classiﬁed as Artiﬁcial Intelligence ones. However, not all Artiﬁcial Intelligence could count as Machine Learning since some basic Rule-based engines could be classiﬁed as AI but they do not learn from experience therefore they do not belong to the machine learning category.
+
 ___
+
 # [Click Project 1: Classification & Regression Models](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](python_coding.jpg)
 
@@ -87,7 +101,9 @@ ___
 * **Python libraries used:** pandas, numpy, sklearn, feature engine, xgboost, math, joblib, scipy, seaborn, matplotlib.
 * **Input:** Listing dataset contains the hosts information, the condition of listed properties, the reviews and more. 
 * **Output:** Predicted rental price of the listed properties.
+
 ___
+
 # [Click Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
 ![alt text](python_coding01.jpg)
 
@@ -108,12 +124,14 @@ ___
 # Deep Learning
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
 
-Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
+### Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
 
-* Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
+### * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
 
-* Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
+### * Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
+
 ____
+
 # [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
 ![alt text](CNN.jpeg)
 
@@ -124,7 +142,9 @@ ____
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, matplotlib.
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
 * **Output:** Accurately classified the ten different types of food correctly.
+
 ___
+
 # [Click Project 4: Sentiment Analysis](https://github.com/wiltacca/Portfolio/blob/main/Sentiment_Analysis.ipynb)
 ![alt text](Sentiment_Analysis.jpg)
 
@@ -137,7 +157,9 @@ ___
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, string, emoji, nltk, matplotlib.
 * **Input:** Scraped the most recent reviews from com.disney.disneyplus (in Google Play Store) in English language from United State.
 * **Output:** Accurately predict user input review scores correctly.
+
 ___
+
 # [Click Project 5: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
 ![alt text](Data_Visualisation.jpg)
 
