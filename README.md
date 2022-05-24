@@ -185,6 +185,8 @@ ___
 
 ### Feature engineering is a machine learning technique that leverages data to create new variables that aren't in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
 
+![alt text](Engineering.jpg)
+
 **FEATURE ENGINEERING -** This project focuses on wrangling the data from the three different baseball datasets to understand various data wrangling techniques such as joining the tables and exploring, preparing, and transforming data through multiple methods. Once the data has been transformed and is ready for modelling, proceed to build regression and classification models.
 
 * **Python libraries used:** pandas, numpy, sklearn, feature engine, datetime, scipy, seaborn, matplotlib.
