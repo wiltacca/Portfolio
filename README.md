@@ -87,7 +87,7 @@ ___
 ___
 
 # [Click Project 1: Classification & Regression](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
-![alt text](python_coding.jpg)   
+![alt text](python_coding02.jpg)   
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
@@ -221,7 +221,7 @@ ___
 ___
 
 # [Click Project 8: Python Programming](https://github.com/wiltacca/Portfolio/blob/main/Statistics.ipynb)
-![alt text](python_coding02.jpg)
+![alt text](python_coding.jpg)
 
 ### Statistics, in general, is the method of collection of data, tabulation, and interpretation of numerical data. It is an area of applied mathematics concern with data collection analysis, interpretation, and presentation. With statistics, we can see how data can be used to solve complex problems. 
 
