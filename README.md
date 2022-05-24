@@ -173,3 +173,7 @@ Through data preparation, exploration and visualisation, the market research tea
 * **Input:** cardio dataset contains products, branches, genders, ages, educations of customers, model of treadmills and more.
 * **Output:** Discovered vast differences across various product lines with respect to customer characteristics.
 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPE2irJgPJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+
