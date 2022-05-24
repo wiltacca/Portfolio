@@ -171,8 +171,8 @@ ___
 
 ___
 
-# [Click Project 6: Feature Engineering](https://github.com/wiltacca/Portfolio/blob/main/Feature_Engineering.ipynb)
-![alt text](Data_Visualisation.jpg)
+# [Click Project 5: Feature Engineering](https://github.com/wiltacca/Portfolio/blob/main/Feature_Engineering.ipynb)
+![alt text](Feature Engineering.jpg)
 
 ### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
 
