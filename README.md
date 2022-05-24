@@ -185,8 +185,6 @@ ___
 
 ### Feature engineering is a machine learning technique that leverages data to create new variables that aren't in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
 
-![alt text](Engineering.jpg)
-
 **FEATURE ENGINEERING -** This project focuses on wrangling the data from the three different baseball datasets to understand various data wrangling techniques such as joining the tables and exploring, preparing, and transforming data through multiple methods. Once the data has been transformed and is ready for modelling, proceed to build regression and classification models.
 
 * **Python libraries used:** pandas, numpy, sklearn, feature engine, datetime, scipy, seaborn, matplotlib.
@@ -220,3 +218,15 @@ ___
 * **Input:** Student grades dataset contains student marks for four different modules (Math, Science, Comms, Tech) from five different diplomas (Dip_Technology, Dip_Media, Dip_Security, Dip_Social, Dip_Banking) and more.
 * **Output:** Answered these questions by applying various statistical techniques.
 
+___
+
+# [Click Project 8: Python Programming](https://github.com/wiltacca/Portfolio/blob/main/Statistics.ipynb)
+![alt text](Statistics.jpg)
+
+### Statistics, in general, is the method of collection of data, tabulation, and interpretation of numerical data. It is an area of applied mathematics concern with data collection analysis, interpretation, and presentation. With statistics, we can see how data can be used to solve complex problems. 
+
+**PYTHON PROGRAMMING -** This project focuses on answering six questions about the students’ performance. Using the appropriate data from the dataset provided, perform statistical techniques to provide answers to these questions.
+
+* **Python libraries used:** pandas, numpy, sklearn, feature engine, sweetviz, scipy, statsmodels, seaborn, matplotlib, pylab.
+* **Input:** Student grades dataset contains student marks for four different modules (Math, Science, Comms, Tech) from five different diplomas (Dip_Technology, Dip_Media, Dip_Security, Dip_Social, Dip_Banking) and more.
+* **Output:** Answered these questions by applying various statistical techniques.
