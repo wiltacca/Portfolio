@@ -1,6 +1,9 @@
 ![alt text](DataMakesSense.png)
 
-[<img alt="alt_text" src="DataMakesSense.PNG" />](https://williamtwl.wordpress.com/)
+![alt text](DataMakesSense.png).](https://williamtwl.wordpress.com/)
+
+
+[![name](link to image on GH)](link to your URL)
 
 # [Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
 
