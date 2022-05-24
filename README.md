@@ -174,14 +174,13 @@ ___
 # [Click Project 5: Feature Engineering](https://github.com/wiltacca/Portfolio/blob/main/Feature_Engineering.ipynb)
 ![alt text](FeatureEngineering.jpg)
 
-### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
+### Feature engineering is a machine learning technique that leverages data to create new variables that aren't in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
 
-**FEATURE ENGINEERING -** This project focuses on by assuming that you are part of the market research team for Cardio Good Fitness, a retail business specializing in the sales of treadmills. The team has collected data on individuals who purchased a treadmill at the Cardio Good Fitness retail stores for the past three months.
-Through data preparation, exploration and visualisation, the market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics.
+**FEATURE ENGINEERING -** This project focuses on wrangling the data from the three different baseball datasets to understand various data wrangling techniques such as joining the tables and exploring, preparing, and transforming data through multiple methods. Once the data has been transformed and is ready for modelling, proceed to build regression and classification models.
 
-* **Python libraries used:** pandas, numpy, scipy, plotly, seaborn, matplotlib, bokeh.
-* **Input:** cardio dataset contains products, branches, genders, ages, educations of customers, model of treadmills and more.
-* **Output:** Discovered vast differences across various product lines with respect to customer characteristics.
+* **Python libraries used:** pandas, numpy, sklearn, feature engine, datetime, scipy, seaborn, matplotlib.
+* **Input:** Three baseball datasets extracted from a database contains players' awards, batting, hall of fame information and more.
+* **Output:** Build two simple machine learning models (regression and classification) based on the wrangled and prepared data.
 
 ___
 
