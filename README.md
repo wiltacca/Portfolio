@@ -198,7 +198,7 @@ Through data preparation, exploration and visualisation, the market research tea
 
 ___
 
-# [Click Project 7: Statistics](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
+# [Click Project 7: Statistics](https://github.com/wiltacca/Portfolio/blob/main/Statistics.ipynb)
 ![alt text](Statistics.jpg)
 
 ### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
