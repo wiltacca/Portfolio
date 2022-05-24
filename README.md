@@ -129,9 +129,7 @@ ___
 
 ### Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
 
-
 ### * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
-
 
 ### * Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
 
@@ -141,6 +139,9 @@ ____
 ![alt text](CNN.jpeg)
 
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
+
+### VGG16 is a CNN architecture which was used to win ILSVR (Imagenet) competition in 2014. It is considered to be one of the excellent vision model architecture till date. Most unique thing about VGG16 is that instead of having a large number of hyper-parameter they focused on having convolution layers of 3x3 filter with a stride 1 and always used same padding and maxpool layer of 2x2 filter of stride 2. It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC(fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
+![alt text](VGG16.png)
 
 **IMAGE CLASSIFICATIONS -** This project focuses on to build various multiclass image classification models to recognise and classify ten different types of food.
 
