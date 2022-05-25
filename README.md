@@ -223,10 +223,10 @@ ___
 # [Click Project 8: Python Programming](https://github.com/wiltacca/Portfolio/blob/main/HDB_Resale_Pricing_Financial_Evaluation_System.ipynb)
 ![alt text](HDBFlats.jpg)
 
-### Statistics, in general, is the method of collection of data, tabulation, and interpretation of numerical data. It is an area of applied mathematics concern with data collection analysis, interpretation, and presentation. With statistics, we can see how data can be used to solve complex problems. 
+### Python is an open-sourcing programming language. Therefore, it is freely available for everyone to access, download, and execute. There are no licensing costs involved with Python. Companies can save money by working with Python. The open-source nature of Python also ensures that developers can update the programming language and make modifications. But there are costs involved in using Python for app development. They may not be the licensing costs but the price of hiring a programmer, paying the development partner, and maintaining the app.Python programming language has a syntax similar to the English language, making it extremely easy and simple for anyone to read and understand its codes. You can pick up this language without much trouble and learn it easily. This is one of the reasons why Python is better compared to other programming languages such as C, C++, or Java.
 
-**PYTHON PROGRAMMING -** This project focuses on answering six questions about the students’ performance. Using the appropriate data from the dataset provided, perform statistical techniques to provide answers to these questions.
+**PYTHON PROGRAMMING -** This project aims to address Part (A) requirement that is to compute the correlation coefficient between the HDB Resale Price Index (RPI) and Singapore’s population from 1990 to 2019. Part (B) requirements are to develope a system with a main menu to allow users to input the basic savings, savings with pay raise, choice of HDB flat to buy, most expensive flats per sqm and exit from the system.
 
-* **Python libraries used:** pandas, numpy, sklearn, feature engine, sweetviz, scipy, statsmodels, seaborn, matplotlib, pylab.
-* **Input:** Student grades dataset contains student marks for four different modules (Math, Science, Comms, Tech) from five different diplomas (Dip_Technology, Dip_Media, Dip_Security, Dip_Social, Dip_Banking) and more.
-* **Output:** Answered these questions by applying various statistical techniques.
+* **Python libraries used:** pandas, numpy.
+* **Input:** Past HDB transacted dataset contains historical HDB resale flats information.
+* **Output:** Established solutions to address Part (A) and (B) requirements. 
