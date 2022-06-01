@@ -110,7 +110,7 @@ ___
 ___
 
 # [Click Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
-![alt text](clusterassociate.png)
+![alt text](clusterassociate.jpg)
 
 ### Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
 
