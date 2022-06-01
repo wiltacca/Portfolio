@@ -87,7 +87,7 @@ ___
 ___
 
 # [Click Project 1: Classification & Regression](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
-![alt text](python_coding.jpg)   
+![alt text](machinelearning.jpg)   
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
