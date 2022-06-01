@@ -221,7 +221,7 @@ ___
 ___
 
 # [Click Project 8: Python Programming](https://github.com/wiltacca/Portfolio/blob/main/HDB_Resale_Pricing_Financial_Evaluation_System.ipynb)
-![alt text](HDBFlats.jpg)
+![alt text](python_coding.jpg) 
 
 ### Python is an open-sourcing programming language. Therefore, it is freely available for everyone to access, download, and execute. There are no licensing costs involved with Python. Companies can save money by working with Python. The open-source nature of Python also ensures that developers can update the programming language and make modifications. But there are costs involved in using Python for app development. They may not be the licensing costs but the price of hiring a programmer, paying the development partner, and maintaining the app.Python programming language has a syntax similar to the English language, making it extremely easy and simple for anyone to read and understand its codes. You can pick up this language without much trouble and learn it easily. This is one of the reasons why Python is better compared to other programming languages such as C, C++, or Java.
 
