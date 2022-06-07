@@ -57,7 +57,7 @@ ___
 
 * SAP Web Intelligence (Business Object), SAP Crystal Reports, SAP Dashboard, SAP NetWeaver Business Warehouse, SAP BEx, SAP Enterprise Resource Planning, SAP Business Objects Data Service, SAP Information Design Tool
 
-* SAS Enterprise Guide, SAS Enterprise Miner,  SAS Sentimental Analysis Studio
+* SAS Enterprise Guide, SAS Enterprise Miner, SAS Sentimental Analysis Studio
 
 * QlikView
 
@@ -75,7 +75,7 @@ ___
 
 ___
 
-# Artifical Intelligence
+# Artificial Intelligence
 ![alt text](AIMLDL.png)
 
 ### Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
@@ -99,7 +99,7 @@ ___
 * **Input:** HR dataset contains employee personal information, education background, past performance and more. 
 * **Output:** Identified the employees most likely to get promoted.
 
-**REGRESSION -** Airbnb wants to expand on traveling possibilities and present more unique, personalized way of experiencing the world. Utilize all these features from the dataset to make predictions on the rental price of the listed properties.
+**REGRESSION -** Airbnb wants to expand on travelling possibilities and present a more unique, personalized way of experiencing the world. Utilize all these features from the dataset to make predictions on the rental price of the listed properties.
 
 ![alt text](Regression.png)
 
@@ -114,7 +114,7 @@ ___
 
 ### Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
 
-**CLUSTERING -** This project focuses on bank credir risk in particular the customer credit which is the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
+**CLUSTERING -** This project focuses on bank credir risk in particular the customer credit which the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
 
 ![alt text](Clustergram.png)
 
@@ -135,7 +135,7 @@ ___
 # Deep Learning
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
 
-### Deep Learning is a specialized ﬁeld of Machine Learning that relies on training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
+### Deep Learning is a specialized ﬁeld of Machine Learning that relies on the training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
 
 * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
 
@@ -146,13 +146,13 @@ ____
 # [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
 ![alt text](imageclass.jpg)
 
-### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, the CNN is immune to spatial variance and can detect features anywhere in the input images.
+### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input result in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, CNN is immune to spatial variance and can detect features anywhere in the input images.
 ![alt text](CNN.jpeg)
 
-### VGG16 is a CNN architecture which was used to win ILSVR (Imagenet) competition in 2014. It is considered to be one of the excellent vision model architecture till date. Most unique thing about VGG16 is that instead of having a large number of hyper-parameter they focused on having convolution layers of 3x3 filter with a stride 1 and always used same padding and maxpool layer of 2x2 filter of stride 2. It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC (fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
+### VGG16 is a CNN architecture which was used to win ILSVR (Imagenet) competition in 2014. It is considered to be one of the excellent vision model architectures to date. The most unique thing about VGG16 is that instead of having a large number of hyper-parameters they focused on having convolution layers of 3x3 filter with a stride 1 and always used the same padding and maxpool layer of 2x2 filter of stride 2. It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC (fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
 ![alt text](VGG16.png)
 
-**IMAGE CLASSIFICATIONS -** This project focuses on to build various multiclass image classification models to recognise and classify ten different types of food.
+**IMAGE CLASSIFICATIONS -** This project focuses on building various multiclass image classification models to recognise and classify ten different types of food.
 
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, matplotlib.
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
@@ -167,16 +167,16 @@ ___
 
 ### Long Short-Term Memory (LSTM) was created as the solution to short-term memory caused by RNN. It has internal mechanisms called gates that can regulate the flow of information. An LSTM has a similar control flow as a recurrent neural network. It processes data passing on information as it propagates forward. The differences are the operations within the LSTM’s cells.
 
-### GRU is the newer generation of Recurrent Neural networks and is pretty similar to an LSTM. GRU’s got rid of the cell state and used the hidden state to transfer information to solve the vanishing gradient problem which comes with a standard recurrent neural network. It also only has two gates, a reset gate and update gate.
+### GRU is the newer generation of Recurrent Neural networks and is pretty similar to an LSTM. GRU’s got rid of the cell state and used the hidden state to transfer information to solve the vanishing gradient problem which comes with a standard recurrent neural network. It also only has two gates, a reset gate and an update gate.
 ![alt text](RNNLSTMGRU.png)
 
 ### GloVe (Global Vectors for Word Representation) is an unsupervised learning algorithm for obtaining vector representations for words developed by Stanford researchers in 2014. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space.
 ![alt text](GloVe.png)
 
-**SENTIMENT ANALYSIS -** This project focuses on to build a sentiment analysis model to predict Disney Plus Disney Plus App review scores based on Google Play Store reviews.
+**SENTIMENT ANALYSIS -** This project focuses on building a sentiment analysis model to predict Disney Plus Disney Plus App review scores based on Google Play Store reviews.
 
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, string, emoji, nltk, matplotlib.
-* **Input:** Scraped the most recent reviews from com.disney.disneyplus (in Google Play Store) in English language from United State.
+* **Input:** Scraped the most recent reviews from com.disney.disneyplus (in Google Play Store) in the English language from United State.
 * **Output:** Accurately predict user input review scores correctly.
 
 ___
@@ -211,7 +211,7 @@ ___
 # [Click Project 7: Statistics](https://github.com/wiltacca/Portfolio/blob/main/Statistics.ipynb)
 ![alt text](Statistics.jpg)
 
-### Statistics, in general, is the method of collection of data, tabulation, and interpretation of numerical data. It is an area of applied mathematics concern with data collection analysis, interpretation, and presentation. With statistics, we can see how data can be used to solve complex problems. 
+### Statistics, in general, is the method of collection of data, tabulation, and interpretation of numerical data. It is an area of applied mathematics concerned with data collection analysis, interpretation, and presentation. With statistics, we can see how data can be used to solve complex problems. 
 
 **STATISTICAL TESTS -** This project focuses on answering six questions about the students’ performance. Using the appropriate data from the dataset provided, perform statistical techniques to provide answers to these questions.
 
@@ -226,7 +226,7 @@ ___
 
 ### Python is an open-sourcing programming language. Therefore, it is freely available for everyone to access, download, and execute. There are no licensing costs involved with Python. Companies can save money by working with Python. The open-source nature of Python also ensures that developers can update the programming language and make modifications. But there are costs involved in using Python for app development. They may not be the licensing costs but the price of hiring a programmer, paying the development partner, and maintaining the app.Python programming language has a syntax similar to the English language, making it extremely easy and simple for anyone to read and understand its codes. You can pick up this language without much trouble and learn it easily. This is one of the reasons why Python is better compared to other programming languages such as C, C++, or Java.
 
-**PYTHON PROGRAMMING -** This project aims to address Part (A) requirement that is to compute the correlation coefficient between the HDB Resale Price Index (RPI) and Singapore’s population from 1990 to 2019. Part (B) requirements are to develope a system with a main menu to allow users to input the basic savings, savings with pay raise, choice of HDB flat to buy, most expensive flats per sqm and exit from the system.
+**PYTHON PROGRAMMING -** This project aims to address Part (A) requirement that is to compute the correlation coefficient between the HDB Resale Price Index (RPI) and Singapore’s population from 1990 to 2019. Part (B) requirements are to develop a system with the main menu to allow users to input the basic savings, savings with pay raise, choice of HDB flat to buy, most expensive flats per sqm and exit from the system.
 
 * **Python libraries used:** pandas, numpy.
 * **Input:** Past HDB transacted dataset contains historical HDB resale flats information.
