@@ -32,7 +32,7 @@ ___
 # Certifications
 ![alt text](Certification.jpg)
 
-* 2020 - Malik Effecive Management Program 
+* 2020 - Malik Effective Management Program
 
 * 2018 - Microsoft Certified Professional 
 
