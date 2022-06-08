@@ -208,6 +208,13 @@ Through data preparation, exploration and visualisation, the market research tea
 
 ___
 
+# Data Science
+![alt text](Data_Science.png)
+
+### The ultimate goal of data science is to solve problems by extracting knowledge from data and giving support for complex decisions. The first part of solving a problem is getting a good understanding of its domain. You need to understand the insurance business before using data science for risk analysis. You need to know the details of the goods manufacturing process before designing an automated quality assurance process. First, you understand the domain. Then, you find a problem. If you skip this part, you have a good chance of solving the wrong problem. After coming up with a good problem definition, you seek a solution. 
+
+___
+
 # [Click Project 7: Statistics](https://github.com/wiltacca/Portfolio/blob/main/Statistics.ipynb)
 ![alt text](Statistics.jpg)
 
