@@ -78,7 +78,7 @@ ___
 # Artificial Intelligence
 ![alt text](AIMLDL.png)
 
-### Science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. Ai is a broader ﬁeld that contains several subﬁeld such as machine learning, robotics, and computer vision.
+### Artificial Intelligence (AI) is a science that empowers computers to mimic human intelligence such as decision making, text processing, and visual perception. AI is a broader ﬁeld that contains several subﬁeld such as machine learning, deep learning, robotics, and computer vision.
 
 # Machine Learning
 
