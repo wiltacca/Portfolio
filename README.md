@@ -91,8 +91,8 @@ ___
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
-### Classification is the task of predicting a discrete class label.
-### Regression is the task of predicting a continuous quantity.
+### * Classification is the task of predicting a discrete class label.
+### * Regression is the task of predicting a continuous quantity.
 
 **CLASSIFICATION -** This project performs HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
 
@@ -140,9 +140,9 @@ ___
 
 ### Deep Learning is a specialized ﬁeld of Machine Learning that relies on the training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
 
-### Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
+### * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
 
-### Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
+### * Deep Learning Process: (1) Select the architecture of the network, (2) features are automatically extracted by feeding in the training data (such as images) along with the target class (label).
 
 ____
 
