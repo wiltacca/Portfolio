@@ -91,6 +91,9 @@ ___
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
+### Classification is the task of predicting a discrete class label.
+### Regression is the task of predicting a continuous quantity.
+
 **CLASSIFICATION -** This project performs HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
 
 ![alt text](Classification.png)
