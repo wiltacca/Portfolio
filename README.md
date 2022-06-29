@@ -1,6 +1,6 @@
 [![name](DataMakesSense.png)](https://williamtwl.wordpress.com/)
 
-# [A Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
+# [Data Science & Machine Learning Enthusiast!](https://williamtwl.wordpress.com/)
 
 ___
 
