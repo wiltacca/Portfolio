@@ -193,7 +193,7 @@ ___
 **FEATURE ENGINEERING CASE STUDY -** This project focuses on wrangling the data from the three different baseball datasets to understand various data wrangling techniques such as joining the tables and exploring, preparing, and transforming data through multiple methods. Once the data has been transformed and is ready for modelling, proceed to build regression and classification models.
 
 * **Python libraries used:** pandas, numpy, sklearn, feature engine, datetime, scipy, seaborn, matplotlib.
-* **Input:** Three baseball datasets extracted from a database contains players' awards, batting, hall of fame information.
+* **Input:** Three baseball datasets extracted from a database contains players' awards, batting, hall of fame information and more.
 * **Output:** Build two simple machine learning models (regression and classification) based on the wrangled and prepared data.
 
 ___
