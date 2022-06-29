@@ -181,7 +181,7 @@ ___
 
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, string, emoji, nltk, matplotlib.
 * **Input:** Scraped the most recent reviews from com.disney.disneyplus (in Google Play Store) in the English language from United State.
-* **Output:** Accurately predict user input review scores correctly.
+* **Output:** Accurately predicted user input review scores correctly.
 
 ___
 
