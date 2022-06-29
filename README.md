@@ -126,7 +126,7 @@ ___
 * **Input:** Loaddefault dataset contains customers’ history, such as age, debt ratio, monthly income, number of open credit lines and loans and more.
 * **Output:** Discovered a cluster of customers with high credit risk.
 
-**ASSOCIATION RULES CASE STUDY -** This project create recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analysing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in analysed data.
+**ASSOCIATION RULES CASE STUDY -** This project creates recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analysing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in analysed data.
 
 ![alt text](Association.png)
 
