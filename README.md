@@ -45,7 +45,7 @@ ___
 # Technological Toolbox/Skills
 ![alt text](Skill.jpg)
 
-* Microsoft: Excel, PowerPivot, Power Query, Macro: VBA, Word, PowerPoint, Access, Visio, Project, OneNote
+* Microsoft Office Suite: Excel, PowerPivot, Power Query, Macro: VBA, Word, PowerPoint, Access, Visio, Project, OneNote
 
 * Microsoft Power BI - DAX
 
