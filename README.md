@@ -91,7 +91,7 @@ ___
 
 ### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning which takes place in the presence of a supervisor or a teacher.
 
-### Supervised Machine Learning can classify in two types:
+### What's the difference between regression and classification in supervised learning?
 ### * Classification is the task of predicting a discrete class label.
 ### * Regression is the task of predicting a continuous quantity.
 
