@@ -207,7 +207,7 @@ ___
 Through data preparation, exploration and visualisation, the market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics.
 
 * **Python libraries used:** pandas, numpy, scipy, plotly, seaborn, matplotlib, bokeh.
-* **Input:** cardio dataset contains products, branches, genders, ages, educations of customers, model of treadmills and more.
+* **Input:** Cardio dataset contains products, branches, genders, ages, educations of customers, model of treadmills and more.
 * **Output:** Discovered vast differences across various product lines with respect to customer characteristics.
 
 ___
