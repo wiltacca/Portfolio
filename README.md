@@ -95,7 +95,7 @@ ___
 ### * Classification is the task of predicting a discrete class label.
 ### * Regression is the task of predicting a continuous quantity.
 
-**CLASSIFICATION CASE STUDY -** This project performs HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
+**CLASSIFICATION CASE STUDY -** This project performs HR analytics that is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data have been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Here is an opportunity to try machine learning in identifying the employees most likely to get promoted.
 
 ![alt text](Classification.png)
 
@@ -116,9 +116,9 @@ ___
 # [Click Project 2: Clustering & Association Rules](https://github.com/wiltacca/Portfolio/blob/main/Clustering_%26_Association_Rules.ipynb)
 ![alt text](clusterassociate.jpg)
 
-### Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
+### Unsupervised learning is a machine learning technique where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data.
 
-**CLUSTERING CASE STUDY -** This project focuses on bank credit risk in particular the customer credit which the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
+**CLUSTERING CASE STUDY -** This project focuses on bank credit risk, in particular the customer credit, which the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative which is an unsupervised machine learning algorithm uses to cluster unlabeled data points.
 
 ![alt text](Clustergram.png)
 
@@ -126,7 +126,7 @@ ___
 * **Input:** Loaddefault dataset contains customers’ history, such as age, debt ratio, monthly income, number of open credit lines and loans and more.
 * **Output:** Discovered a cluster of customers with high credit risk.
 
-**ASSOCIATION RULES CASE STUDY -** This project creates recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analysing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in analysed data.
+**ASSOCIATION RULES CASE STUDY -** This project creates recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analyzing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in analyzed data.
 
 ![alt text](Association.png)
 
@@ -139,7 +139,7 @@ ___
 # Deep Learning
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
 
-### Deep Learning is a specialized ﬁeld of Machine Learning that relies on the training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is in their ability to extract features automatically as illustrated in the following example:
+### Deep Learning is a specialized ﬁeld of Machine Learning that relies on the training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is their ability to extract features automatically as illustrated in the following example:
 
 ### * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
 
@@ -150,13 +150,13 @@ ____
 # [Click Project 3: Image Classifications](https://github.com/wiltacca/Portfolio/blob/main/Image_Classifications.ipynb)
 ![alt text](imageclass.jpg)
 
-### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input result in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, CNN is immune to spatial variance and can detect features anywhere in the input images.
+### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analyzing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input result in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, CNN is immune to spatial variance and can detect features anywhere in the input images.
 ![alt text](CNN.jpeg)
 
-### VGG16 is a CNN architecture which was used to win ILSVR (Imagenet) competition in 2014. It is considered to be one of the excellent vision model architectures to date. The most unique thing about VGG16 is that instead of having a large number of hyper-parameters they focused on having convolution layers of 3x3 filter with a stride 1 and always used the same padding and maxpool layer of 2x2 filter of stride 2. It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC (fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
+### VGG16 is a CNN architecture which was used to win ILSVR (Imagenet) competition in 2014. It is considered to be one of the excellent vision model architectures to date. The most unique thing about VGG16 is that instead of having a large number of hyper-parameters they focused on having convolution layers of 3x3 filter with a stride 1 and always used the same padding and maxpool layer of 2x2 filter of stride 2. It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC (fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it having 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
 ![alt text](VGG16.png)
 
-**IMAGE CLASSIFICATIONS CASE STUDY -** This project focuses on building various multiclass image classification models to recognise and classify ten different types of food.
+**IMAGE CLASSIFICATIONS CASE STUDY -** This project focuses on building various multiclass image classification models to recognize and classify ten different types of food.
 
 * **Python libraries used:** pandas, numpy, tensorflow, keras, os, time, matplotlib.
 * **Input:** Images of baby back ribs, bibimbap, cupcakes, dumplings, fried calamari, garlic bread, lasagna, pancakes, prime rib, and tiramisu.
@@ -171,7 +171,7 @@ ___
 
 ### Long Short-Term Memory (LSTM) was created as the solution to short-term memory caused by RNN. It has internal mechanisms called gates that can regulate the flow of information. An LSTM has a similar control flow as a recurrent neural network. It processes data passing on information as it propagates forward. The differences are the operations within the LSTM’s cells.
 
-### GRU is the newer generation of Recurrent Neural networks and is pretty similar to an LSTM. GRU’s got rid of the cell state and used the hidden state to transfer information to solve the vanishing gradient problem which comes with a standard recurrent neural network. It also only has two gates, a reset gate and an update gate.
+### GRU is the newer generation of Recurrent Neural networks and is pretty similar to an LSTM. GRU’s got rid of the cell state and used the hidden state to transfer information to solve the vanishing gradient problem with a standard recurrent neural network. It also only has two gates, a reset gate and an update gate.
 ![alt text](RNNLSTMGRU.png)
 
 ### GloVe (Global Vectors for Word Representation) is an unsupervised learning algorithm for obtaining vector representations for words developed by Stanford researchers in 2014. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space.
@@ -188,7 +188,7 @@ ___
 # [Click Project 5: Feature Engineering](https://github.com/wiltacca/Portfolio/blob/main/Feature_Engineering.ipynb)
 ![alt text](featureengineering.jpg)
 
-### Feature engineering is a machine learning technique that leverages data to create new variables that aren't in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
+### Feature engineering is a machine learning technique that leverages data to create new variables that are not in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
 
 **FEATURE ENGINEERING CASE STUDY -** This project focuses on wrangling the data from the three different baseball datasets to understand various data wrangling techniques such as joining the tables and exploring, preparing, and transforming data through multiple methods. Once the data has been transformed and is ready for modelling, proceed to build regression and classification models.
 
@@ -201,13 +201,12 @@ ___
 # [Click Project 6: Data Visualization](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
 ![alt text](Data_Visualisation.jpg)
 
-### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
+### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualization. To perform data visualization in Python, we can use various Python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
 
-**DATA VISUALIZATION CASE STUDY -** This project focuses on assuming that you are part of the market research team for Cardio Good Fitness, a retail business specializing in the sales of treadmills. The team has collected data on individuals who purchased a treadmill at the Cardio Good Fitness retail stores for the past three months.
-Through data preparation, exploration and visualisation, the market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics.
+**DATA VISUALIZATION CASE STUDY -** This project focuses on assuming that you are part of the market research team for Cardio Good Fitness, a retail business specializing in the sales of treadmills. The team has collected data on individuals who purchased a treadmill at the Cardio Good Fitness retail stores for the past three months. Through data preparation, exploration and visualization, the market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics.
 
 * **Python libraries used:** pandas, numpy, scipy, plotly, seaborn, matplotlib, bokeh.
-* **Input:** Cardio dataset contains products, branches, genders, ages, educations of customers, model of treadmills and more.
+* **Input:** Cardio dataset contains products, branches, genders, ages, education of customers, model of treadmills and more.
 * **Output:** Discovered vast differences across various product lines with respect to customer characteristics.
 
 ___
@@ -237,7 +236,7 @@ ___
 
 ### Python is an open-sourcing programming language. Therefore, it is freely available for everyone to access, download, and execute. There are no licensing costs involved with Python. Companies can save money by working with Python. The open-source nature of Python also ensures that developers can update the programming language and make modifications. But there are costs involved in using Python for app development. They may not be the licensing costs but the price of hiring a programmer, paying the development partner, and maintaining the app.Python programming language has a syntax similar to the English language, making it extremely easy and simple for anyone to read and understand its codes. You can pick up this language without much trouble and learn it easily. This is one of the reasons why Python is better compared to other programming languages such as C, C++, or Java.
 
-**PYTHON PROGRAMMING CASE STUDY -** This project aims to address Part (A) requirement that is to compute the correlation coefficient between the HDB Resale Price Index (RPI) and Singapore’s population from 1990 to 2019. Part (B) requirements are to develop a system with the main menu to allow users to input the basic savings, savings with pay raise, choice of HDB flat to buy, identify the most expensive flats per sqm and exit from the system.
+**PYTHON PROGRAMMING CASE STUDY -** This project aims to address Part (A) requirement to compute the correlation coefficient between the HDB Resale Price Index (RPI) and Singapore’s population from 1990 to 2019. Part (B) requirements are to develop a system with the main menu to allow users to input the basic savings, savings with pay raise, choice of HDB flat to buy, identify the most expensive flats per sqm and exit from the system.
 
 * **Python libraries used:** pandas, numpy.
 * **Input:** Past HDB transacted dataset contains historical HDB resale flats information.
