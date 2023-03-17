@@ -21,7 +21,7 @@ ___
 
 * 2013 - Certificate of Achievement in Business Intelligence Systems (SAP BI), *The University of Victoria*
 
-* 2013 - Diploma in IT Services (Database Management), *Infocomm Development Authority of Singapore*
+* 2013 - Diploma in IT Services (Database Management), *Singapore Workforce Skills Qualifications*
 
 * 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)), *The University of Oxford Brookes*
 
