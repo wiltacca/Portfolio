@@ -25,7 +25,7 @@ ___
 
 * 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)), *The University of Oxford Brookes*
 
-* 2001 - The Association of Chartered Certified Accountants *(ACCA)*
+* 2001 - The Association of Chartered Certified Accountants, *(ACCA)*
 
 ___
 
