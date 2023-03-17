@@ -25,7 +25,7 @@ ___
 
 * 2002 - Bachelor of Science (Honours) – Applied Accounting (BSc (Hons)), *The University of Oxford Brookes*
 
-* 2001 - The Association of Chartered Certified Accountants, *(ACCA)*
+* 2001 - The Association of Chartered Certified Accountants *(ACCA)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 # Artificial Intelligence
 ![alt text](AIMLDL.png)
 
-### Artificial Intelligence (AI) is a science that empowers computers to mimic human intelligence, such as decision making, text processing, and visual perception. AI is a broader ﬁeld that contains several subﬁeld such as machine learning, deep learning, robotics, and computer vision.
+### Artificial Intelligence (AI) is a science that empowers computers to mimic human intelligence, such as decision-making, text processing, and visual perception. AI is a broader ﬁeld that contains several subﬁeld such as machine learning, deep learning, robotics, and computer vision.
 
 # Machine Learning
 
@@ -89,7 +89,7 @@ ___
 # [Click Project 1: Classification & Regression](https://github.com/wiltacca/Portfolio/blob/main/Classification_%26_Regression_Models.ipynb)
 ![alt text](machinelearning.jpg)   
 
-### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labeled.” It means some data is already tagged with the correct answer. It can be compared to learning in the presence of a supervisor or a teacher.
+### Supervised Machine Learning: In Supervised learning, you train the machine using data which is well “labelled.” It means some data is already tagged with the correct answer. It can be compared to learning in the presence of a supervisor or a teacher.
 
 ### What is the difference between regression and classification in supervised learning?
 ### * Classification is the task of predicting a discrete class label.
@@ -118,7 +118,7 @@ ___
 
 ### Unsupervised learning is a machine learning technique where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with unlabelled data.
 
-**CLUSTERING CASE STUDY -** This project focuses on bank credit risk, in particular the customer credit, which the bank will gain from giving credit only if the customers will not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative, which is an unsupervised machine learning algorithm used to cluster unlabeled data points.
+**CLUSTERING CASE STUDY -** This project focuses on bank credit risk, in particular the customer credit, which the bank will gain from giving credit only if the customers do not default on the loan, which means that they will not repay the debt. One of the solutions to address the bank problem is to use hierarchical clustering, which requires creating clusters that have predetermined order from bottom to top using the Agglomerative, which is an unsupervised machine learning algorithm used to cluster unlabeled data points.
 
 ![alt text](Clustergram.png)
 
@@ -126,12 +126,12 @@ ___
 * **Input:** Loaddefault dataset contains customers’ history, such as age, debt ratio, monthly income, number of open credit lines and loans and more.
 * **Output:** Discovered a cluster of customers with high credit risk.
 
-**ASSOCIATION RULES CASE STUDY -** This project creates recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analysing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in analysed data.
+**ASSOCIATION RULES CASE STUDY -** This project creates recommendation systems that are being widely used in all forms of digital platforms; Association rules can be applied in the form of TV Shows recommendation systems to discover the existing relations between features in the database.  By analysing the database, which contains TV shows of distinguishable users, it can find some interesting rules occurring in the analysed data.
 
 ![alt text](Association.png)
 
 * **Python libraries used:**  pandas, numpy, sklearn, scipy, mlxtend, plotly, seaborn, matplotlib.
-* **Input:** TV Shows dataset contains 9690 record of TV show watched by different customers.
+* **Input:** TV Shows dataset contains 9690 records of TV shows watched by different customers.
 * **Output:** Recommended the next TV show a customer will be interested in watching. 
 
 ___
@@ -139,7 +139,7 @@ ___
 # Deep Learning
 ![alt text](Neural_Network_Brain_Mimic.jpeg)
 
-### Deep Learning is a specialised ﬁeld of Machine Learning that relies on the training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information processing models inspired by the human brain. The human brain consists of billions of neurons that communicate to each other using electrical and chemical signals and enable humans to see, feel, and make decision. ANNs works by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is their ability to extract features automatically as illustrated in the following example:
+### Deep Learning is a specialised ﬁeld of Machine Learning that relies on the training of Deep Artiﬁcial Neural Networks (ANNs) using a large dataset such as images or texts. ANNs are information-processing models inspired by the human brain. The human brain consists of billions of neurons that communicate with each other using electrical and chemical signals and enable humans to see, feel, and make the decision. ANNs work by mathematically mimicking the human brain and connecting multiple “artiﬁcial” neurons in a multilayered fashion. The more hidden layers added to the network, the deeper the network gets. What differentiates deep learning from machine learning techniques is their ability to extract features automatically as illustrated in the following example:
 
 ### * Machine learning Process: (1) selecting the model to train, (2) manually performing feature extraction.
 
@@ -153,7 +153,7 @@ ____
 ### Convolutional Neural Network (CNN) is a class of deep neural networks most commonly used for analysing visual imagery. Convolution layers are the building blocks of CNNs. Convolution is the simple application of a filter to an input that results in activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a detected feature in input, such as an image. What makes CNN so powerful and useful is that it can generate excellent predictions with minimal image preprocessing. Also, CNN is immune to spatial variance and can detect features anywhere in the input images.
 ![alt text](CNN.jpeg)
 
-### VGG16 is a CNN architecture which was used to win ILSVR (Imagenet) competition in 2014. It is considered to be one of the excellent vision model architectures to date. The most unique thing about VGG16 is that instead of having a large number of hyper-parameters, they focused on having convolution layers of 3x3 filter with a stride 1 and always used the same padding and maxpool layer of 2x2 filter of stride 2. It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC (fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it having 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
+### VGG16 is a CNN architecture which was used to win ILSVR (Imagenet) competition in 2014. It is considered to be one of the excellent vision model architectures to date. The most unique thing about VGG16 is that instead of having a large number of hyper-parameters, they focused on having convolution layers of 3x3 filter with a stride 1 and always used the same padding and maxpool layer of 2x2 filter of stride 2. It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end, it has 2 FC (fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it having 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
 ![alt text](VGG16.png)
 
 **IMAGE CLASSIFICATIONS CASE STUDY -** This project focuses on building various multiclass image classification models to recognise and classify ten different types of food.
@@ -201,7 +201,7 @@ ___
 # [Click Project 6: Data Visualisation](https://github.com/wiltacca/Portfolio/blob/main/Data_Visualisation.ipynb)
 ![alt text](Data_Visualisation.jpg)
 
-### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualisation. To perform data visualisation in Python, we can use various Python data visualisation modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualisation tools and technologies are essential to analyze massive amounts of information and make data-driven decisions.
+### The process of finding trends and correlations in our data by representing it pictorially is called Data Visualisation. To perform data visualisation in Python, we can use various Python data visualisation modules such as Matplotlib, Seaborn, Plotly, etc. In the world of Big Data, data visualisation tools and technologies are essential to analyze massive amounts of information and making data-driven decisions.
 
 **DATA VISUALISATION CASE STUDY -** This project focuses on assuming that you are part of the market research team for Cardio Good Fitness, a retail business is specialising in the sales of treadmills. The team has collected data on individuals who purchased a treadmill at the Cardio Good Fitness retail stores for the past three months. Through data preparation, exploration and visualisation, the market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics.
 
@@ -234,7 +234,7 @@ ___
 # [Click Project 8: Python Programming](https://github.com/wiltacca/Portfolio/blob/main/HDB_Resale_Pricing_Financial_Evaluation_System.ipynb)
 ![alt text](python_coding.jpg) 
 
-### Python is an open-sourcing programming language. Therefore, it is freely available for everyone to access, download, and execute. There are no licensing costs involved with Python. Companies can save money by working with Python. The open-source nature of Python also ensures that developers can update the programming language and make modifications. But there are costs involved in using Python for app development. They may not be the licensing costs but the price of hiring a programmer, paying the development partner, and maintaining the app.Python programming language has a syntax similar to the English language, making it extremely easy and simple for anyone to read and understand its codes. You can pick up this language without much trouble and learn it easily. This is one of the reasons why Python is better compared to other programming languages such as C, C++, or Java.
+### Python is an open-sourcing programming language. Therefore, it is freely available for everyone to access, download, and execute. There are no licensing costs involved with Python. Companies can save money by working with Python. The open-source nature of Python also ensures that developers can update the programming language and make modifications. But there are costs involved in using Python for app development. They may not be the licensing costs but the price of hiring a programmer, paying the development partner, and maintaining the app. Python programming language has a syntax similar to the English language, making it extremely easy and simple for anyone to read and understand its codes. You can pick up this language without much trouble and learn it easily. This is one of the reasons why Python is better compared to other programming languages such as C, C++, or Java.
 
 **PYTHON PROGRAMMING CASE STUDY -** This project aims to address Part (A) requirement to compute the correlation coefficient between the HDB Resale Price Index (RPI) and Singapore’s population from 1990 to 2019. Part (B) requirements are to develop a system with the main menu to allow users to input the basic savings, savings with pay raise, choice of HDB flat to buy, identify the most expensive flats per sqm and exit from the system.
 
